@@ -1,2 +1,2 @@
 # greeter
-testing smart contract
+Testing smart contract.
